@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S.M. Yousuf Iqbal Tomal</h1>
-<h3 align="center">A Computer Science Engineer based in Bangladesh. I focus on AI/ML and Quantum Computing Technologies.</h3>
+<h3 align="center">A Computer Science Engineer based in Bangladesh, focusing on AI/ML and Quantum Computing technologies.</h3>
 
 - 🔭 I’m currently working on **Quantum Machine Learning**
 
