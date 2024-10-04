@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Quantum Machine Learning**
 
-- 🌱 I’m currently learning **Qiskit, Pennylane, PyTorch and Quantum Information**
+- 🌱 I’m currently learning **Qiskit, Pennylane, PyTorch, NLP, Transformer and Quantum Information**
 
 - 👯 I’m looking to collaborate on [AlertMe](https://github.com/yousuftomal/altme)
 
